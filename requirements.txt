@@ -1,5 +1,7 @@
 # requirements.txt
 
-snowflake-connector-python==3.0.4
-urllib3<1.27,>=1.21.1
+snowflake-connector-python
+
 streamlit==1.25.0
+
+pyarrow==10.0.1
